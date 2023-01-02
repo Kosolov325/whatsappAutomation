@@ -12,7 +12,7 @@ I was idle and a friend of mine showed me a funny whatsapp javascript lib, so in
 ``` node
 DATABASE_URI = 'mongodb://USER:PASSWORD@HOSTNAME/'
 ISNERDLIST = 'javascript, js, python, vou estudar, jogar, cs, mount and blade, mb, nw, native, counter strike, java, cobol, aws, gcloud, amazom, gigachad'
-FORBIDDENCHATS = '120363038861907009@g.us, 120363045550290155@g.us, 558386401562@c.us, 558386010074@c.us, 558388171280@c.us, 558387693495@c.us, 558399880999@c.us, 558388021210@c.us, 558396819436@c.us'
+FORBIDDENCHATS = '120363038861907009@g.us, 120363045550290155@g.us, 13314479999@c.us, 5535998780224@c.us, 556976420633@c.us'
 ```
 
 ## Installation
