@@ -19,7 +19,7 @@ FORBIDDENCHATS = '120363038861907009@g.us, 120363045550290155@g.us, 13314479999@
 ``` node
 npm install .
 npm start
-#enjoy
+
 ```
 ## Features
 
